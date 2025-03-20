@@ -24,19 +24,19 @@ const About = () => {
     {
       name: "Rahul Saha",
       role: "Developer",
-      image: "../public/student2.jpeg",
+      image: "/student2.jpeg",
       description: "Expert on development."
     },
     {
       name: "Chandan Biswas",
       role: "Full Stack Developer",
-      image: "../public/student1.jpeg",
+      image: "/student1.jpeg",
       description: "Specializes in full-stack development."
     },
     {
       name: "Anirban Ghosh",
       role: "Engineer",
-      image: "../public/student3.jpeg",
+      image: "/student3.jpeg",
       description: "Leading innovative research initiatives in education"
     }
   ];
