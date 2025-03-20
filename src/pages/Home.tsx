@@ -4,22 +4,22 @@ import { Link } from 'react-router-dom';
 
 const slides = [
   {
-    url: '../public/pic1.jpg',
+    url: '/pic1.jpg',
     title: 'Welcome to Muxa Academy',
     subtitle: 'Empowering minds through quality education'
   },
   {
-    url: '../public/pic3.jpg',
+    url: '/pic3.jpg',
     title: 'World-Class Education',
     subtitle: 'Learn from industry experts and advance your career'
   },
   {
-    url: '../public/pic2.jpg',
+    url: '/pic2.jpg',
     title: 'Modern Learning Environment',
     subtitle: 'State-of-the-art facilities for optimal learning'
   },
   {
-    url: '../public/pic4.jpg',
+    url: '/pic4.jpg',
     title: 'Student Success',
     subtitle: '95% placement rate with top companies'
   }
